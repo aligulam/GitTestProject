@@ -1,0 +1,5 @@
+C:\Users\agulamali\Documents\Visual Studio 2010\Projects\GitTestProject\GitTestProject\bin\GitTestProject.dll
+C:\Users\agulamali\Documents\Visual Studio 2010\Projects\GitTestProject\GitTestProject\bin\GitTestProject.pdb
+C:\Users\agulamali\Documents\Visual Studio 2010\Projects\GitTestProject\GitTestProject\obj\Debug\GitTestProject.dll
+C:\Users\agulamali\Documents\Visual Studio 2010\Projects\GitTestProject\GitTestProject\obj\Debug\GitTestProject.pdb
+C:\Users\agulamali\Documents\Visual Studio 2010\Projects\GitTestProject\GitTestProject\obj\Debug\GitTestProject.csprojResolveAssemblyReference.cache
