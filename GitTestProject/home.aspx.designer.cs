@@ -7,7 +7,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-
-public partial class  {
+namespace GitTestProject {
+    
+    
+    public partial class home {
+    }
 }
